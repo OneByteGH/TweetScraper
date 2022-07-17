@@ -7,4 +7,4 @@ A Python script that scrapes tweets from a user account (refer to this for [rate
 - go into the project folder using `cd TweetScraper`
 - install httpx using `pip install httpx`
 - run the script using `python main.py`
-This will output to `tweets.json` with the tweets (DOES NOT SCRAPE RETWEETS, REPLIES OR TWEETS WITH MEDIA)
+- this will output to `tweets.json` with the tweets (DOES NOT SCRAPE RETWEETS, REPLIES OR TWEETS WITH MEDIA)
